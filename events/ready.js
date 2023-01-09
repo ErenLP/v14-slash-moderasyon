@@ -1,4 +1,3 @@
-k
 const { REST } = require("@discordjs/rest");
 const { Routes } = require("discord-api-types/v10");
 const { TOKEN } = require("../config.json");
